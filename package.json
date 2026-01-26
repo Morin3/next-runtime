@@ -50,7 +50,7 @@
   "devDependencies": {
     "@fastly/http-compute-js": "1.1.4",
     "@netlify/blobs": "^7.3.0",
-    "@netlify/build": "^29.50.2",
+    "@netlify/build": "^33.0.0",
     "@netlify/edge-bundler": "^12.1.1",
     "@netlify/edge-functions": "^2.10.0",
     "@netlify/eslint-config-node": "^7.0.1",
@@ -67,7 +67,7 @@
     "@types/node": "^20.12.7",
     "@types/picomatch": "^2.3.3",
     "@types/uuid": "^9.0.6",
-    "@vercel/nft": "^0.27.0",
+    "@vercel/nft": "^0.27.8",
     "cheerio": "^1.0.0-rc.12",
     "clean-package": "^2.2.0",
     "esbuild": "^0.21.0",
